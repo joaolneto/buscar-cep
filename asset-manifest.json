@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/buscar-cep/static/css/main.b8bc805e.css",
+    "main.js": "/buscar-cep/static/js/main.ab3f0ee2.js",
+    "static/js/453.ca9b781d.chunk.js": "/buscar-cep/static/js/453.ca9b781d.chunk.js",
+    "index.html": "/buscar-cep/index.html",
+    "main.b8bc805e.css.map": "/buscar-cep/static/css/main.b8bc805e.css.map",
+    "main.ab3f0ee2.js.map": "/buscar-cep/static/js/main.ab3f0ee2.js.map",
+    "453.ca9b781d.chunk.js.map": "/buscar-cep/static/js/453.ca9b781d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8bc805e.css",
+    "static/js/main.ab3f0ee2.js"
+  ]
+}
